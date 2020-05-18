@@ -1,6 +1,8 @@
 # 打ち切り型通時的誤差逆伝搬法を用いたRNNの効率的な敵対的学習
 
 ## はじめに
+本研究は, RNNを用いた敵対的学習では学習に通常以上の時間がかかってしまう問題を緩和する目的で行いました.
+論文本体は, [卒論pdf][https://github.com/takutheking/senior_thesis/blob/master/senior_thesis.pdf]にあります.
 
 
 ## 論文概要
